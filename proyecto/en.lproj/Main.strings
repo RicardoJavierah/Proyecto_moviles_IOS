@@ -1,0 +1,33 @@
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "2jo-b7-C2e"; */
+"2jo-b7-C2e.placeholder" = "Contraseña";
+
+/* Class = "UIButton"; normalTitle = "Iniciar Sesion"; ObjectID = "4LK-x5-fXy"; */
+"4LK-x5-fXy.normalTitle" = "Iniciar Sesion";
+
+/* Class = "UILabel"; text = "Inicia sesion para continuar"; ObjectID = "4Ot-fk-3yr"; */
+"4Ot-fk-3yr.text" = "Inicia sesion para continuar";
+
+/* Class = "UILabel"; text = "¿Olvidaste tu contraseña?"; ObjectID = "8BK-fU-XOy"; */
+"8BK-fU-XOy.text" = "¿Olvidaste tu contraseña?";
+
+/* Class = "UILabel"; text = "BIENVENIDO!"; ObjectID = "KC1-KM-USc"; */
+"KC1-KM-USc.text" = "BIENVENIDO!";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "LUA-nk-9Xr"; */
+"LUA-nk-9Xr.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Empezemos una nueva forma de pago, recibe y envia dinero sin limites ni comisiones."; ObjectID = "Yqz-po-QB0"; */
+"Yqz-po-QB0.text" = "Empezemos una nueva forma de pago, recibe y envia dinero sin limites ni comisiones.";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP"; ObjectID = "deC-3B-a36"; */
+"deC-3B-a36.normalTitle" = "SIGNUP";
+
+/* Class = "UILabel"; text = "o"; ObjectID = "otv-lT-LgD"; */
+"otv-lT-LgD.text" = "o";
+
+/* Class = "UITextField"; placeholder = "Correo"; ObjectID = "w1l-Al-by6"; */
+"w1l-Al-by6.placeholder" = "Correo";
+
+/* Class = "UILabel"; text = "¡Hola!"; ObjectID = "wXs-Nv-aid"; */
+"wXs-Nv-aid.text" = "¡Hola!";
